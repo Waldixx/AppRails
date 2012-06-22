@@ -1,0 +1,10 @@
+wk:
+  clients:
+    index:
+     # title: "Wyaaaaaa Ruh"
+      #description: "Huwaa muaa mumwa. Wua ga ma uma ahuma ooma."
+  activerecord:
+    attributes:
+      client:
+        name: "Nombre: "
+
